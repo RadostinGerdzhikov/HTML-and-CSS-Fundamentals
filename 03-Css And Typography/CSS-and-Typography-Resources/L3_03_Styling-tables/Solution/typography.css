@@ -1,0 +1,29 @@
+ .site {
+     max-width: 60em;
+     margin: 0 auto; 
+    }
+  
+ table {
+    width: 100%;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid rgb(221, 221, 221)
+}
+
+
+th {
+    text-align: left;
+    background: grey;;
+}
+
+tr:nth-child(odd) td  
+{
+    background: rgb(241, 241, 241);
+}
+
+tr:hover td{
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}

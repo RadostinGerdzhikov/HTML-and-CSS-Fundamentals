@@ -1,0 +1,29 @@
+@import url("https://use.fontawesome.com/releases/v5.6.3/css/all.css");
+
+p {
+    width: 90px;
+    border-radius: 0.2rem;
+    padding:  0.5em;
+    margin: 1em;
+}
+
+
+p a {
+    
+    text-decoration: none; 
+    color: white;
+   
+}
+
+
+
+p:nth-child(1){
+    margin-top: 5em;
+    margin-bottom: 2em;
+    background: green;
+}
+
+p:nth-child(2) {
+
+    background: orange;
+}

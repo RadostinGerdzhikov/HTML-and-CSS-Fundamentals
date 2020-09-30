@@ -1,0 +1,14 @@
+@import url("https://use.fontawesome.com/releases/v5.6.3/css/all.css");
+
+
+/* li {
+    this is with styyle and add fontaesome ions
+    list-style: lower-greek;
+} */
+
+
+li {
+    list-style: none;
+}
+
+
